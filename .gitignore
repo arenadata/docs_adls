@@ -4,3 +4,5 @@ source/_build
 .idea
 texput.log
 pdf
+.vscode
+.DS_Store
